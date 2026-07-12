@@ -1,8 +1,18 @@
-In figma file you will see a section there you find some text like Something Missing? Generate a relevant section with AI complete the design and give me the design UI that I will create with HTML & CSS. When you design the UI section make sure that color should be relevent & last generate the UI design as an image
-Edit
-Give this UI section's background image
-Edit
-Give this color code of texts or others
+Ask: In figma file you will see a section there you find some text like Something Missing? Generate a relevant section with AI complete the design and give me the design UI that I will create with HTML & CSS. When you design the UI section make sure that color should be relevent & last generate the UI design as an image
+
+AI response:
+
+{"prompt":"Create a modern website section that fits seamlessly below a conference landing page. The page already uses a clean white background, deep navy (#0F172A), blue accent (#2563EB), and subtle purple highlights. The section replaces a placeholder titled 'Something Missing? Generate a relevant section with AI'. Design a premium 'Join the Developer Community' CTA section.\n\nLayout:\n- Large rounded container with a soft blue-to-purple gradient background (#EEF4FF to #F5F0FF).\n- Decorative blurred circles in the corners.\n- Left side:\n - Small badge: '🚀 Keep Learning'\n - Large heading: 'Join the DevConf Community'\n - Supporting text: 'Connect with developers, receive event updates, exclusive resources, workshop recordings, and early access to next year's conference.'\n - Three horizontal feature rows with icons:\n ✓ Exclusive newsletters\n ✓ Community Discord access\n ✓ Free learning resources\n- Right side:\n - Floating white card with rounded corners and soft shadow.\n - Card title: 'Stay Updated'\n - Email input field.\n - Primary blue button: 'Join Free'\n - Small text: 'No spam. Unsubscribe anytime.'\n- Modern spacing, glassmorphism effects, subtle shadows.\n- Consistent typography with an elegant conference landing page.\n- Desktop web UI mockup only.\n- High-fidelity Figma-style design.","size":"1536x1024"}
+
+Ask: Generate the UI design as an image
+
+AI response: AI Give me the UI in image
+
+Ask: Give this UI section's background image
+
+AI response: AI Give me background image in image
+
+Ask: Give this color code of texts or others
 
 Based on the UI design image, these are the approximate color codes you can use in your HTML & CSS. They closely match the generated design.
 
